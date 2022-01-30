@@ -6,17 +6,58 @@ I'm the owner of a little organization called Blue Teck World. In the future, th
 
 We will do:
 
-1. An system with other softwares built-in:
+1. An system called Suavan with other softwares built-in:
 
 - OS: 4LV5 (2021+)
 - Help center: Suavan Help
-- Others...
+- Web browser: Web Viewer
+- Other softwares...
 
 ## NOTE
 
-### **This README is under development.**
+#### **This README is under development.**
 
-## Github's default README:
+## Programming languages
+
+I'm studying some programming languages: See, in order of knowledge, some of them:
+
+### 1. Python:
+
+  #### Descripton:
+
+  The eazyest of them. Python is a high level programming language, interpreted of script. See python's site: https://www.python.org/
+
+  #### Example:
+  
+ > print('Hello World!')
+
+### 1. HTML:
+
+  #### Descripton:
+
+  HTML is a shortcut of HyperText Markup Language. HTML documents can be interpreted by web browsers and they make the web pages.
+
+  #### Example:
+  
+ > \<html\>
+ >     \<p\>
+ >         Hello World!
+ >     \</p\>
+ > \</html\>
+
+### 1. Dart:
+
+  #### Descripton:
+
+  Dart is a script language who usualy make websites, developed by Google. The first objective of the language was to replace Java Script. See dart's site: https://dart.dev/
+
+  #### Example:
+  
+ > void main(){
+ >     print('Hello World!');
+ > }
+
+# Github's default README:
 
 - 👋 Hi, I’m @AlvsDias
 - 👀 I’m interested in Softwares
