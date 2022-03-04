@@ -33,7 +33,7 @@ I'm studying some programming languages: See, in order of knowledge, some of the
   
  > print('Hello World!')
 
-### 1. HTML:
+### 2. HTML:
 
   #### Descripton:
 
@@ -47,7 +47,7 @@ I'm studying some programming languages: See, in order of knowledge, some of the
  >     \</p\>
  > \</html\>
 
-### 1. Dart:
+### 3. Dart:
 
   #### Descripton:
 
