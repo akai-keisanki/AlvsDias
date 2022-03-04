@@ -10,8 +10,8 @@ We will do:
 
 1. An system called Suavan with other softwares built-in:
 
-- OS: Suavan (2021+) (We have plans for an operating system called 4LV5)
-- Help center: Suavan Help
+- OS: The Suavan OS (2021+) (We have plans for an operating system called 4LV5)
+- Help center: Suavan Help Center
 - Web browser: Suavan Web Browser (We have plans for an web browser called Web Viewer)
 - Library: Suavan Library (We have plans for libraries called Soft, Soft 2G and Azul)
 
