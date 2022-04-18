@@ -1,5 +1,9 @@
 ![AlvsDiasLOGO](https://github.com/AlvsDias/AlvsDias/blob/main/AlvsDiasLOGO.png?raw=true)
 
+[<img src="https://github.com/Blue-Teck-World/Blue-Teck-World/blob/Core/BTWicons/BTW%20Icon%20(2021+)%20(clear)%20(Transparency).png?raw=true" width="239"/>](https://github.com/Blue-Teck-World) | [<img src="https://github.com/Blue-Teck-World/Blue-Teck-World/blob/Core/SVNicons/Suavan%20Logo.png?raw=true" width="239"/>](https://github.com/AlvsDias/Suavan)
+
+ The Blue Teck World Organization | Sistema Universal Amigável Verdadeiro e Nítido
+
 # I'm AlvsDias
 
 ## Owner of Blue Teck World
